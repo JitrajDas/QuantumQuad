@@ -1,8 +1,4 @@
-# QuantumQuad
-Certainly! Below is an example of a README file for our SnapStore web application:
-
-markdown
-#SnapStore Web Application :
+# QuantumQu
 
 Welcome to SnapStore! This is a web application that allows users to list items they want to buy by scanning barcodes using their smartphone's camera. Users can also make purchases directly through the app.
 
@@ -38,14 +34,19 @@ Welcome to SnapStore! This is a web application that allows users to list items 
 3. Review the product details and add items to our shopping cart.
 4. Proceed to checkout, review our order, and make a secure payment.
 
-#Contributing :
 
-We welcome contributions! If you have any ideas or suggestions for improving the SnapStore app, please feel free to submit a pull request.
 
-In this README file, I've included sections for describing the purpose and features of the SnapStore web application, as well as instructions for installation, dependencies, and usage. Additionally, there's a section for contributing and information about the project's license.
+The Following Are the Commits of Our On going project
 
 In Our First Commit We have Created the index page which consist of Creation of Account for our Web based application. 
 
 In our Second Commit we have uploaded the Terms and Conditions .html file for our Web based application.
 
 In our Third Commit we have uploaded the Prototype of our given Web based application.
+
+in Our Fourth Commit We have done the Usecase diagram for the project
+
+In Our fifth Commit we have added the terms and condition web page for our Project.
+
+In Our Sixth Commit we have updated the Javascript File containing the Scanner Part
+
