@@ -4,3 +4,5 @@ Our App addresses this problem by allowing users to scan barcodes of items they 
 In Our First Commit We have Created the index page which consist of Creation of Account for our Web based application. 
 
 In our Second Commit we have uploaded the Terms and Conditions .html file for our Web based application.
+
+In our Third Commit we have uploaded the Prototype of our given Web based application.
