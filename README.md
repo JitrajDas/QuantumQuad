@@ -1,4 +1,4 @@
-# QuantumQu
+# QuantumQuad
 
 Welcome to SnapStore! This is a web application that allows users to list items they want to buy by scanning barcodes using their smartphone's camera. Users can also make purchases directly through the app.
 
