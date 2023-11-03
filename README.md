@@ -50,4 +50,4 @@ In Our fifth Commit we have added the terms and condition web page for our Proje
 
 In Our Sixth Commit we have updated the Javascript File containing the Scanner Part
 
-in our seventh commit we have update our index.html
+In our seventh commit we have update our index.html
