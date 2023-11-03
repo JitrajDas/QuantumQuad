@@ -1,6 +1,6 @@
 # QuantumQuad
 
-Welcome to SnapStore! This is a web application that allows users to list items they want to buy by scanning barcodes using their smartphone's camera. Users can also make purchases directly through the app.
+Welcome to SnapStore! This is a web application that allows users to list items they want to buy by scanning barcodes using their smartphone's camera. Users can also make purchases directly through the app. where the user opens the app and can scan item from the store and will be directly able to pay through our app.
 
 #Features :
 
@@ -51,3 +51,5 @@ In Our fifth Commit we have added the terms and condition web page for our Proje
 In Our Sixth Commit we have updated the Javascript File containing the Scanner Part
 
 In our seventh commit we have update our index.html
+
+In Our Eigth Commit We added the config, camera, order, and user javascript files. 
