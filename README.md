@@ -1,6 +1,6 @@
 # QuantumQuad
 
-Welcome to SnapStore! This is a web application that allows users to list items they want to buy by scanning barcodes using their smartphone's camera. Users can also make purchases directly through the app. where the user opens the app and can scan item from the store and will be directly able to pay through our app.
+Welcome to ToQRi! This is a web application that allows users to list items they want to buy by scanning barcodes using their smartphone's camera. Users can also make purchases directly through the app. where the user opens the app and can scan item from the store and will be directly able to pay through our app.
 
 #Features :
 
